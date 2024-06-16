@@ -1,2 +1,2 @@
 # Group-discussion
-Related papers ,ppt and codes in the group discussion
+Related paper ,ppt and code in the group discussion
